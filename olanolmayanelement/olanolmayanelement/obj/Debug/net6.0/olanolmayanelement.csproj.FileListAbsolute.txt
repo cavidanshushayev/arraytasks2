@@ -1,0 +1,15 @@
+C:\Users\ELHaf\Desktop\cs\olanolmayanelement\olanolmayanelement\bin\Debug\net6.0\olanolmayanelement.exe
+C:\Users\ELHaf\Desktop\cs\olanolmayanelement\olanolmayanelement\bin\Debug\net6.0\olanolmayanelement.deps.json
+C:\Users\ELHaf\Desktop\cs\olanolmayanelement\olanolmayanelement\bin\Debug\net6.0\olanolmayanelement.runtimeconfig.json
+C:\Users\ELHaf\Desktop\cs\olanolmayanelement\olanolmayanelement\bin\Debug\net6.0\olanolmayanelement.dll
+C:\Users\ELHaf\Desktop\cs\olanolmayanelement\olanolmayanelement\bin\Debug\net6.0\olanolmayanelement.pdb
+C:\Users\ELHaf\Desktop\cs\olanolmayanelement\olanolmayanelement\obj\Debug\net6.0\olanolmayanelement.csproj.AssemblyReference.cache
+C:\Users\ELHaf\Desktop\cs\olanolmayanelement\olanolmayanelement\obj\Debug\net6.0\olanolmayanelement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELHaf\Desktop\cs\olanolmayanelement\olanolmayanelement\obj\Debug\net6.0\olanolmayanelement.AssemblyInfoInputs.cache
+C:\Users\ELHaf\Desktop\cs\olanolmayanelement\olanolmayanelement\obj\Debug\net6.0\olanolmayanelement.AssemblyInfo.cs
+C:\Users\ELHaf\Desktop\cs\olanolmayanelement\olanolmayanelement\obj\Debug\net6.0\olanolmayanelement.csproj.CoreCompileInputs.cache
+C:\Users\ELHaf\Desktop\cs\olanolmayanelement\olanolmayanelement\obj\Debug\net6.0\olanolmayanelement.dll
+C:\Users\ELHaf\Desktop\cs\olanolmayanelement\olanolmayanelement\obj\Debug\net6.0\refint\olanolmayanelement.dll
+C:\Users\ELHaf\Desktop\cs\olanolmayanelement\olanolmayanelement\obj\Debug\net6.0\olanolmayanelement.pdb
+C:\Users\ELHaf\Desktop\cs\olanolmayanelement\olanolmayanelement\obj\Debug\net6.0\olanolmayanelement.genruntimeconfig.cache
+C:\Users\ELHaf\Desktop\cs\olanolmayanelement\olanolmayanelement\obj\Debug\net6.0\ref\olanolmayanelement.dll

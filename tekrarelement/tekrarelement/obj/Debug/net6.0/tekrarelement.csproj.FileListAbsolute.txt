@@ -1,0 +1,15 @@
+C:\Users\ELHaf\Desktop\cs\tekrarelement\tekrarelement\bin\Debug\net6.0\tekrarelement.exe
+C:\Users\ELHaf\Desktop\cs\tekrarelement\tekrarelement\bin\Debug\net6.0\tekrarelement.deps.json
+C:\Users\ELHaf\Desktop\cs\tekrarelement\tekrarelement\bin\Debug\net6.0\tekrarelement.runtimeconfig.json
+C:\Users\ELHaf\Desktop\cs\tekrarelement\tekrarelement\bin\Debug\net6.0\tekrarelement.dll
+C:\Users\ELHaf\Desktop\cs\tekrarelement\tekrarelement\bin\Debug\net6.0\tekrarelement.pdb
+C:\Users\ELHaf\Desktop\cs\tekrarelement\tekrarelement\obj\Debug\net6.0\tekrarelement.csproj.AssemblyReference.cache
+C:\Users\ELHaf\Desktop\cs\tekrarelement\tekrarelement\obj\Debug\net6.0\tekrarelement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELHaf\Desktop\cs\tekrarelement\tekrarelement\obj\Debug\net6.0\tekrarelement.AssemblyInfoInputs.cache
+C:\Users\ELHaf\Desktop\cs\tekrarelement\tekrarelement\obj\Debug\net6.0\tekrarelement.AssemblyInfo.cs
+C:\Users\ELHaf\Desktop\cs\tekrarelement\tekrarelement\obj\Debug\net6.0\tekrarelement.csproj.CoreCompileInputs.cache
+C:\Users\ELHaf\Desktop\cs\tekrarelement\tekrarelement\obj\Debug\net6.0\tekrarelement.dll
+C:\Users\ELHaf\Desktop\cs\tekrarelement\tekrarelement\obj\Debug\net6.0\refint\tekrarelement.dll
+C:\Users\ELHaf\Desktop\cs\tekrarelement\tekrarelement\obj\Debug\net6.0\tekrarelement.pdb
+C:\Users\ELHaf\Desktop\cs\tekrarelement\tekrarelement\obj\Debug\net6.0\tekrarelement.genruntimeconfig.cache
+C:\Users\ELHaf\Desktop\cs\tekrarelement\tekrarelement\obj\Debug\net6.0\ref\tekrarelement.dll

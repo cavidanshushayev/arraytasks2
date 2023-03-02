@@ -1,0 +1,15 @@
+C:\Users\ELHaf\Desktop\cs\maxmin\maxmin\bin\Debug\net6.0\maxmin.exe
+C:\Users\ELHaf\Desktop\cs\maxmin\maxmin\bin\Debug\net6.0\maxmin.deps.json
+C:\Users\ELHaf\Desktop\cs\maxmin\maxmin\bin\Debug\net6.0\maxmin.runtimeconfig.json
+C:\Users\ELHaf\Desktop\cs\maxmin\maxmin\bin\Debug\net6.0\maxmin.dll
+C:\Users\ELHaf\Desktop\cs\maxmin\maxmin\bin\Debug\net6.0\maxmin.pdb
+C:\Users\ELHaf\Desktop\cs\maxmin\maxmin\obj\Debug\net6.0\maxmin.csproj.AssemblyReference.cache
+C:\Users\ELHaf\Desktop\cs\maxmin\maxmin\obj\Debug\net6.0\maxmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELHaf\Desktop\cs\maxmin\maxmin\obj\Debug\net6.0\maxmin.AssemblyInfoInputs.cache
+C:\Users\ELHaf\Desktop\cs\maxmin\maxmin\obj\Debug\net6.0\maxmin.AssemblyInfo.cs
+C:\Users\ELHaf\Desktop\cs\maxmin\maxmin\obj\Debug\net6.0\maxmin.csproj.CoreCompileInputs.cache
+C:\Users\ELHaf\Desktop\cs\maxmin\maxmin\obj\Debug\net6.0\maxmin.dll
+C:\Users\ELHaf\Desktop\cs\maxmin\maxmin\obj\Debug\net6.0\refint\maxmin.dll
+C:\Users\ELHaf\Desktop\cs\maxmin\maxmin\obj\Debug\net6.0\maxmin.pdb
+C:\Users\ELHaf\Desktop\cs\maxmin\maxmin\obj\Debug\net6.0\maxmin.genruntimeconfig.cache
+C:\Users\ELHaf\Desktop\cs\maxmin\maxmin\obj\Debug\net6.0\ref\maxmin.dll
